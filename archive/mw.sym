@@ -1,0 +1,14 @@
+; this file was created with wlalink by ville helin <vhelin@iki.fi>.
+; wla symbolic information for "mw.gg".
+
+[labels]
+0000:009d MPDATA
+0000:009d TILES
+0000:04bd TILEMAP
+0000:3cbd PALETTE
+0000:0014 PGDATA
+0000:0068 SETUP
+0000:0082 RGDATA
+0000:008d REGINI
+0000:0018 MAIN
+0002:4000 LOADVR

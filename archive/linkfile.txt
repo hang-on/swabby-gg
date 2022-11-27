@@ -1,0 +1,4 @@
+[objects]
+demo1.o
+[libraries]
+bank 2 slot 1 vdp.lib
